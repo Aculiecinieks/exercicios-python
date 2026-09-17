@@ -1,7 +1,7 @@
 # string
 nome = "Telvin"
 
-#int
+
 idade = 73
 
 print(f"Meu nome é {nome} e tenho {idade} anos")
